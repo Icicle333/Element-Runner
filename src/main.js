@@ -1,3 +1,4 @@
+//Note: I misread instructions and didn't publish Github until the end, sorry
 //Name: William McCabe
 //Game Title: Element Runner
 //Approximate Hours: 25 hours
